@@ -1,0 +1,78 @@
+.warm-soft{
+  width: 400px;
+  height: 330px;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 209, 200, 0.4), 
+    rgba(225, 148, 71, 0.4), 
+    rgba(255, 252, 210, 0.4),
+    rgba(243, 251, 224, 0.4)  
+  );
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.0.5);
+}
+
+.sharp-chaotic{
+  width: 400px;
+  height: 330px;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle,
+    rgba(222, 200, 255, 0.4), 
+    rgba(71, 222, 225, 0.4), 
+    rgba(215, 210, 255, 0.4),
+    rgba(26, 171, 36, 0.4)  
+  );
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.0.5);
+
+
+}
+
+.deep-calm{
+  width: 400px;
+  height: 330px;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle,
+    rgba(106, 11, 127, 0.4), 
+    rgba(147, 30, 155, 0.4), 
+    rgba(179, 81, 211, 0.4),
+    rgba(229, 115, 235, 0.4)  
+  );
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.0.5);
+
+}
+
+.airy-ethereal{
+  width: 400px;
+  height: 330px;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 200, 221, 0.4), 
+    rgba(71, 223, 225, 0.4), 
+    rgba(255, 244, 210, 0.4),
+    rgba(224, 251, 226, 0.4)  
+  );
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.0.5);
+
+}
+
+.bright-energetic{
+  width: 400px;
+  height: 330px;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle,
+    rgba(249, 255, 200, 0.4), 
+    rgba(117, 225, 71, 0.4), 
+    rgba(134, 241, 159, 0.4),
+    rgba(104, 220, 230, 0.4)  
+  );
+  background-color: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.0.5);
+}
