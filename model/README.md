@@ -10,3 +10,7 @@ This returned a 222 integer which I'm assuming is because I didn't one-hot encod
 
 When implementing the mutual_info_classif() function on the data in relation to the y target, the scores ranged from 0-0.7. 
 I played around with dropping certain features to assess the model's performance, but every feature lead to the 78% accuracy except the timestamp feature. 
+
+# Limitations of the Model
+
+The model is overconfident on predicting the second class. Most predictions you will see in the demo are "preds: 1". I'm not sure whether this is the fault of the model or the data that was passed through with there being a possible class imbalance.
