@@ -126,7 +126,7 @@ function App() {
         spectral_spread_hz: spread,
         timestamp_seconds: time
       };
-      const response = await fetch(`https://web-production-0d9c6.up.railway.app/predict`, {
+      const response = await fetch(`https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/predict`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
