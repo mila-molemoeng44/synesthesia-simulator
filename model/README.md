@@ -13,4 +13,4 @@ I played around with dropping certain features to assess the model's performance
 
 # Limitations of the Model
 
-The model is overconfident on predicting the second class. Most predictions you will see in the demo are "preds: 1". I'm not sure whether this is the fault of the model or the data that was passed through with there being a possible class imbalance.
+The model is overconfident on predicting the second class. Most predictions you will see in the demo are "pred: 1". I'm not sure whether this is the fault of the model or the data that was passed through with there being a possible class imbalance.
